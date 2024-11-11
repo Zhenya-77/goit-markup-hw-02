@@ -1,0 +1,55 @@
+body {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  background: #fff;
+  width: 1440px;
+  height: 3300px;
+}
+/* Навігація */
+nav {
+  width: 1440px;
+  height: 72px;
+}
+.navigation-title {
+  text-decoration: none;
+  padding-left: 156px;
+  padding-top: 24px;
+  padding-bottom: 24px;
+  padding-right: 76px;
+}
+ul {
+  text-decoration: none;
+  list-style-type: none;
+}
+li {
+  display: inline;
+}
+address {
+  text-align: right;
+}
+/* Секція 1 */
+.section-first {
+  background: #2e2f42;
+  width: 1440px;
+  height: 600px;
+  text-align: center;
+}
+.section-title {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 56px;
+  color: #fff;
+  padding-left: 472px;
+  padding-top: 188px;
+  padding-right: 472px;
+  padding-bottom: 48px;
+}
+.section-first-button {
+  color: #fff;
+  border-radius: 4px;
+  padding: 16px 32px;
+  width: 169px;
+  height: 56px;
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+  background: #4d5ae5;
+}
