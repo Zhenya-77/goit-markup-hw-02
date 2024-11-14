@@ -76,3 +76,48 @@ body {
   background-color: #404bbf;
   cursor: pointer;
 }
+/* Секція 2 */
+.section-second-h-three {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.002em;
+  color: #2e2f42;
+}
+.section-second-p {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+/* Секція 3 */
+.section-third {
+  background-color: #f4f4fd;
+}
+.section-third-title {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.002em;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
+.section-third-item {
+  background: #fff;
+}
+.section-third-item-h {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 120%;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+}
+.section-third-item-p {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #434455;
+}
