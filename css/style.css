@@ -41,3 +41,38 @@ body {
 .address-item-mail:focus {
   color: #404bbf;
 }
+.address-item-tel {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+.address-item-tel:hover,
+.address-item-tel:focus {
+  color: #404bbf;
+}
+/* Секція 1 */
+.section-first {
+  background-color: #2e2f42;
+}
+.section-title {
+  font-size: 56px;
+  line-height: 1.07;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+}
+.section-first-button {
+  background-color: #4d5ae5;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #ffffff;
+}
+.section-first-button:hover,
+.section-first-button:focus {
+  background-color: #404bbf;
+  cursor: pointer;
+}
